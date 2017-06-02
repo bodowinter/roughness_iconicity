@@ -23,6 +23,7 @@
 - check validity of Google translations with Hungarian norms
 - replicate analyses for Hungarian
 - perform random forests on onsets, codas, full syllables etc.
+- random forests with continuous data
 - perform Mantel tests on full words and go from left to right (old analysis)
 - onset cluster consonant density / syllable complexity? (Marton's idea?)
 - Levenshtein distance controlling for length? (not much of a concern since we only focus on the same syllable)
