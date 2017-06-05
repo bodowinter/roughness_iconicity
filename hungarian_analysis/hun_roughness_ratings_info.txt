@@ -1,0 +1,8 @@
+hun_orth: Hungarian orthography
+google_trs: Hungarian -> English translation using Google Translate
+google_trs_symmetrical: is Hun = Hun -> Eng -> Hun? (using Google Translate)
+hun_phonemes: phonemic translation
+etymology_source: etymological source in Hungarian; "from other" usually means derived from another Hungarian word; "innovation" means that the word was likely coined in Hungarian
+etymology_data: first attestation in Hungarian (if not available for a derived form, then first attestation for the source word)
+hun_roughness: average roughness rating based on responses from 21 Hungarian participants
+eng_roughness: average roughness rating for English translation where available (from Stadtlander & Murdoch 2000)
