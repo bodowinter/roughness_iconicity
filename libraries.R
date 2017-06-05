@@ -3,16 +3,17 @@
 ## Load libraries for entire project
 
 ## Libraries:
+## (05/05/2017: Marton Soskuthy added error handling, in case there are missing packages)
 
-library(maps)
-library(mapdata)
+try(library(maps))
+try(library(mapdata))
 
-library(xlsx)
-library(tidyverse)
-library(lme4)
-library(stringr)
+try(library(xlsx))
+try(library(tidyverse))
+try(library(lme4))
+try(library(stringr))
 
-library(ade4)
-library(effsize)	# not in paper yet
+try(library(ade4))
+try(library(effsize))	# not in paper yet
 
-library(party)
+try(library(party))
