@@ -62,8 +62,13 @@ rforest_acc(rough.preds, stadt$RoughCat)	# 68%
 
 ## Extract variable importances:
 
-rough.varimps <- varimp(myfor, conditional = F)	# check later
+rough.varimps <- varimp(myfor, conditional = T)	# check later
 rough.varimps <- sort(rough.varimps)
+
+## Assign actual IPA characters:
+
+rough.varimps_names <- c('s', 'θ', 'v', 'p', 't', 'd', 'ʃ', 'ʒ',
+	'm', 'n', 'ʋ', 'h', 'tʃ', 'g', 'b', 'f', 'k', 'l', 'r')
 
 ## Plot raw variable importance:
 
@@ -77,7 +82,7 @@ points(rough.varimps, 1:length(rough.varimps), pch = 15, cex = 1.5)
 axis(side = 1, at = seq(0, 0.05, 0.01),
 	font = 2, cex.axis = 1.25, lwd = 2, lwd.ticks = 2)
 axis(side = 2, at = 1:length(rough.varimps),
-	las = 2, font = 2, tick = F, cex.axis = 1.15, labels = names(rough.varimps),
+	las = 2, font = 2, tick = F, cex.axis = 1.15, labels = rough.varimps_names,
 	line = -0.5)
 segments(x0 = 0, y0 = 0, y1 = 20, lwd = 2, lty = 2)
 mtext(side = 1, 'Variable Importance', line = 3.25, cex = 2, font = 2)
