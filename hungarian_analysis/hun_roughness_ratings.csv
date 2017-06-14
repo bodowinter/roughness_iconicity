@@ -1,0 +1,86 @@
+hun_orth,google_trs,google_trs_symmetrical,hun_phonemes,etymology_source,etymology_date,hun_roughness,eng_roughness
+barázdált,striated,TRUE,bArazdalt,slavic,1086,3.65714285714286,NA
+bársonyos,velvety,TRUE,barSOHOS,turkic,1221,-4.13190476190476,-5.3
+bodros,frilly,FALSE,bOdrOS,from other,1222,1.68285714285714,NA
+bolyhos,fluffy,TRUE,bOjhOS,unknown ,1793,0.251428571428571,NA
+bordázott,ribbed,TRUE,bOrdazOtt,slavic,1801,3.00238095238095,3.4
+borostás,bristly,FALSE,bOrOStaS,germanic,1799,4.3847619047619,4.4
+buborékos,bubbly,FALSE,bUbOrekOS,from other,1560,-0.165238095238095,-3.3
+bütykös,gnarled,TRUE,bYckØS,from other,1531,2.74047619047619,4.4
+csipkés,lacy,TRUE,JIpkeS,innovation,1535,1.51047619047619,-1.4
+csiszoló,emery,FALSE,JisOlo,innovation,1476,2.78,NA
+csontos,bony,TRUE,JOntOS,finnougric,1138,1.37190476190476,2.5
+csupasz,bare,TRUE,JupAs,innovation,1786,-3.92190476190476,NA
+csúszós,slippery,TRUE,JusoS,innovation,1604,-5.26571428571429,-6.2
+darabos,lumpy,TRUE,dArAbOS,slavic,1270,2.71190476190476,2.9
+domború,convex,FALSE,dOmbOru,from other,1193,-1.24952380952381,NA
+dudoros,bulbous,FALSE,dUdOrOS,from other,1831,2.47095238095238,NA
+durva,rough,TRUE,dUrvA,unknown,1588,5.18428571428571,6.2
+egyenetlen,uneven,TRUE,EDEnEtlEn,from other,1536,1.59761904761905,NA
+egyenletes,steady,FALSE,EDEnlEtES,from  other,NA,-3.45142857142857,NA
+érdes,rough,FALSE,erdES,innovation,1793,6.0247619047619,6.2
+fémes,metallic,TRUE,femES,innovation,1804,-2.54904761904762,-1.9
+finom,fine,FALSE,fInOm,romance,1585,-3.54238095238095,-5.2
+fodros,frilly,TRUE,fOdrOS,innovation,1246,0.854285714285714,NA
+fogazott,toothed,TRUE,fOgAzOtt,from other,1138,4.14571428571429,NA
+folyamatos,continuous,TRUE,fOjAmAtOS,from other,1479,-2.93809523809524,NA
+göröngyös,bumpy,TRUE,gØrØHDØS,from other,1604,3.9052380952381,3.3
+gubancos,matted,FALSE,gUbAncOS,from other,1622,2.44285714285714,0.3
+gyapjas,woolly,TRUE,DApjAS,turkic,1470,-0.284761904761905,0
+gyöngyös,pearly,TRUE,DØHDØS,turkic,1164,0.152380952380952,NA
+gyűrött,creased,FALSE,DyrØtt,unknown,1586,1.26761904761905,NA
+homokos,sandy,FALSE,hOmOkOS,turkic,1055,1.81047619047619,3.9
+homorú,concave,TRUE,hOmOru,from other,1193,-1.65571428571429,NA
+horpadt,dented,TRUE,hOrpAtt,from other,1575,0.967619047619048,2.4
+hullámos,wavy,TRUE,hUllamOs,innovation,1764,-0.0114285714285715,NA
+jeges,icy,TRUE,jEgES,finnougric,1156,-2.12380952380952,-4.3
+karcos,scratched,TRUE,kArTOS,germanic,1550,2.64619047619048,NA
+kavicsos,pebbly,TRUE,kAvIJOS,innovation,1211,3.67,3.8
+kemény,chimney,FALSE,kEmeH,finnougric,1211,0.236190476190476,NA
+kerámia,ceramics,TRUE,kEramIA,greek,1895,-2.6452380952381,NA
+kérges,horny,FALSE,kergES,from other,1211,4.50380952380952,NA
+kirojtosodott,frayed,FALSE,kIrOjtOSOdOtt,unknown,1211,1.37047619047619,-0.8
+kocsonyás,gelatinous,TRUE,kOJOHaS,unknown,1544,-3.41952380952381,-4.2
+kopasz,bald,TRUE,kOpAs,from other,1292,-4.34428571428571,-4.1
+köves,stony,TRUE,kØvES,finnougric,1138,3.43904761904762,NA
+kráteres,crater,FALSE,kratErES,romance,1636,4.07238095238095,NA
+krémes,creamy,FALSE,kremES,romance,1804,-3.15761904761905,-4.8
+lakkozott,lacquered,TRUE,lAkkOzOtt,germanic,1824,-4.54619047619048,NA
+lapos,flat,FALSE,lApOS,finnougric,1228,-3.01904761904762,-2.7
+lyukacsos,porous,FALSE,jUkAJOS,finnougric,1585,2.10380952380952,NA
+mocskos,filthy,TRUE,mOJkOS,innovation,1233,0.929047619047619,NA
+nyálkás,mucoid,TRUE,HalkaS,finnougric,1766,-3.5747619047619,NA
+nyers,raw,TRUE,HErS,unknown,1395,0.458571428571429,NA
+olajos,oily,TRUE,OlAjOS,slavic,1309,-4.54190476190476,-6.2
+omlós,friable,TRUE,OmloS,from other,1309,-0.761904761904762,NA
+papírszerű,papery,TRUE,pApirsEry,germanic,1595,-2.84380952380952,-3.2
+perforált,perforated,FALSE,pErfOralt,romance,NA,0.76,0.4
+pikkelyes,scaly,TRUE,pIkkEjES,germanic,1635,2.52285714285714,1.9
+poros,dusty,TRUE,pOrOS,finnougric,1300,-1.4,-0.8
+ragacsos,gluey,TRUE,rAgAJOS,finnougric,1801,1.31333333333333,-2.9
+redőzött,plaited,TRUE,rEdøzØtt,innovation,1550,3.16095238095238,NA
+repedezett,cracky,TRUE,rEpEdEzEtt,innovation,1508,3.16285714285714,NA
+rezes,coppery,TRUE,rEzES,caucasian,1211,-0.0647619047619047,NA
+rögös,rugged,FALSE,rØgØS,unknown,1456,4.22428571428571,4
+rongyos,ragged,TRUE,rOHDOS,finnougric,1604,1.06095238095238,3.3
+ropogós,crunchy,TRUE,rOpOgoS,from other,1560,1.71285714285714,NA
+rostos,fibrous,FALSE,rOStOS,from other,1211,1.48857142857143,2.3
+rozsdás,rusty,TRUE,rOZdaS,slavic,1416,2.70904761904762,NA
+rücskös,rough,FALSE,rYJkØS,from other,1792,4.49380952380952,6.2
+selymes,silky,TRUE,sEjmES,unknown,1338,-4.87809523809524,-5.9
+sík,flat,FALSE,Sik,unknown,1351,-4.81,-2.7
+sima,smooth,TRUE,SImA,from other,1138,-5.52714285714286,-6.9
+sörtés,bristle,FALSE,SØrteS,turkic,1395,3.67952380952381,NA
+száraz,dry,TRUE,sarAz,finnougric,1227,1.30714285714286,NA
+szemcsés,grainy,TRUE,sEmJeS,innovation,1828,2.5647619047619,3.9
+sziklás,rocky,TRUE,sIklaS,slavic,1490,4.14047619047619,4.8
+szöges,barbed,FALSE,sØgES,finnougric,1138,4.05,6.3
+szőrös,hairy,TRUE,sørØS,finnougric,1307,1.3147619047619,0
+szőtt,woven,TRUE,søtt,finnougric,1219,0.401428571428571,-0.2
+szúrós,stinging,TRUE,suroS,finnougric,1435,4.7952380952381,NA
+tollas,feathery,TRUE,tOllAS,finnougric,1316,-1.26428571428571,NA
+tompa,blunt,TRUE,tOmpA,slavic,1202,-2.25619047619048,0.5
+tüskés,prickly,TRUE,tYSkeS,from other,1410,5.43047619047619,NA
+üveges,glazier,TRUE,YvEgES,misc,1359,-2.5052380952381,NA
+viaszos,waxy,TRUE,vIAsOS,slavic,1372,-2.68714285714286,-3.6
+zsíros,greasy,TRUE,ZirOS,slavic,1225,-3.38904761904762,-5.1
