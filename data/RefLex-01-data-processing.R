@@ -125,6 +125,47 @@ d %>%
   View()
 
 
+# Documentation -----------------------------------------------------------
+
+# RefLex fields:
+# 
+# idr RefLex entry id
+# ref RefLex reference id
+# cit RefLex citation
+# sou RefLex source id
+# fun unified form
+# tra original translation
+# cgr unified grammatical category
+# coa author's comment
+# tuf unified French translation
+# cod phonetic form
+# frm complete form
+# fsi simplified form
+# sto tonal pattern
+# scs syllabic pattern
+# scc consonantal pattern
+# tue	unified English translation
+# alt	consonant alternations
+# cls	class or gender (singular)
+# clp	class or gender (plural)
+# csa	compiler's comment
+# cgo	grammatical category in original
+# rac	lexical root
+# eml	borrowing language
+# langue language
+
+# pos fields:
+# 
+# adj  adjective
+# adv  adverb
+# exp  expression
+# fun  function word
+# grm  grammatical morpheme
+# id   ideophone
+# intj interjection
+# N    noun
+# V    verb
+
 # Save --------------------------------------------------------------------
 
 save(d, file="reflex-data.Rdata")
